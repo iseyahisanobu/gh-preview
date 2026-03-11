@@ -1,0 +1,4 @@
+# このサイトはテスト公開中のため、検索エンジンへの表示を禁止しています。
+# This site is under test. Do not index.
+User-agent: *
+Disallow: /
